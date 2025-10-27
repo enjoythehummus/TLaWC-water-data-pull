@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "title": "Water Monitoring Sites - Taungurung Land and Waters Council Aboriginal Corporation",
+    "source": "Victorian Water Measurement Information System (WMIS)",
+    "registered_aboriginal_party": "Taungurung Land and Waters Council Aboriginal Corporation",
+    "last_updated": null,
+    "total_sites": 0
+  },
+  "sites": [
+    {
+      "site_id": null,
+      "site_name": null,
+      "site_status": null,
+      "site_type": null,
+      "zone": null,
+      "latitude": null,
+      "longitude": null,
+      "zero_gauge": null,
+      "datum": null,
+      "catchment_management_authority": null,
+      "environmental_reference_standard_waters_segment": null,
+      "groundwater_management_unit": null,
+      "groundwater_management_basin": null,
+      "local_government_area": null,
+      "mdb_water_resource_plan_groundwater": null,
+      "mdb_water_resource_plan_surface_water": null,
+      "regional_water_corporation": null,
+      "registered_aboriginal_party": "Taungurung Land and Waters Council Aboriginal Corporation",
+      "river_basin_of_victoria": null,
+      "rural_water_corporation": null,
+      "salinity_province": null,
+      "water_supply_catchment": null
+    }
+  ],
+  "field_descriptions": {
+    "site_id": "Unique identifier for the monitoring site",
+    "site_name": "Official name of the monitoring site",
+    "site_status": "Operational status: 'active' or 'inactive'",
+    "site_type": "Type of monitoring: 'surface water', 'groundwater', 'water quality', or 'rainfall'",
+    "zone": "Geographic or management zone designation",
+    "latitude": "Latitude coordinate in decimal degrees",
+    "longitude": "Longitude coordinate in decimal degrees",
+    "zero_gauge": "Reference elevation for water level measurements",
+    "datum": "Geodetic datum used for coordinate reference",
+    "catchment_management_authority": "Responsible CMA (e.g., Goulburn Broken CMA, North Central CMA)",
+    "environmental_reference_standard_waters_segment": "ERS waters segment classification",
+    "groundwater_management_unit": "GMU designation for groundwater sites",
+    "groundwater_management_basin": "GMB designation (e.g., Highlands, Murray, Gippsland, Otway, Wimmera-Mallee)",
+    "local_government_area": "Municipal council area",
+    "mdb_water_resource_plan_groundwater": "Murray-Darling Basin groundwater resource plan area",
+    "mdb_water_resource_plan_surface_water": "Murray-Darling Basin surface water resource plan area",
+    "regional_water_corporation": "Regional water utility provider",
+    "registered_aboriginal_party": "RAP with cultural heritage management responsibilities",
+    "river_basin_of_victoria": "Major river basin classification",
+    "rural_water_corporation": "Rural water authority (e.g., Goulburn-Murray Water, Southern Rural Water)",
+    "salinity_province": "Salinity management area designation",
+    "water_supply_catchment": "Designated water supply protection area"
+  },
+  "data_notes": {
+    "null_values": "Sites without information for a specific field will have a null value",
+    "filtering": "This structure supports filtering by any field value in external programs",
+    "data_source": "Data should be obtained from https://data.water.vic.gov.au/WMIS/#/overview/stations using the 'Taungurung Land and Waters Council Aboriginal Corporation' filter under 'Registered Aboriginal Party'"
+  }
+}
