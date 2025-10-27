@@ -1,0 +1,52 @@
+{
+  "station_id": "403210",
+  "last_updated": "2025-10-27T15:06:59.314263",
+  "total_measurements": 946843,
+  "parameter_count": 2,
+  "parameters": [
+    {
+      "parameter": "Water Temperature",
+      "unit": "\u00b0C",
+      "measurement_count": 218612,
+      "statistics": {
+        "count": 218611,
+        "mean": 14.59101646303251,
+        "std": 5.171015663372681,
+        "min": 0.0,
+        "max": 28.6,
+        "median": 13.5,
+        "percentile_25": 9.9,
+        "percentile_75": 19.1,
+        "percentile_95": 23.4,
+        "percentile_99": 25.2
+      },
+      "data_range": {
+        "start": "2019-06-06T13:40:59.000+10:00",
+        "end": "2025-09-15T14:23:31.000+10:00"
+      },
+      "status": "updated - added 0 new measurements"
+    },
+    {
+      "parameter": "Water Course Level",
+      "unit": "m",
+      "measurement_count": 728231,
+      "statistics": {
+        "count": 728174,
+        "mean": 1.7346742124821812,
+        "std": 0.5175265041292124,
+        "min": -0.055,
+        "max": 4.205,
+        "median": 1.775,
+        "percentile_25": 1.494,
+        "percentile_75": 2.033,
+        "percentile_95": 2.532,
+        "percentile_99": 2.948
+      },
+      "data_range": {
+        "start": "1947-10-01T15:59:59.000+10:00",
+        "end": "2025-10-26T10:00:01.000+10:00"
+      },
+      "status": "updated - added 0 new measurements"
+    }
+  ]
+}

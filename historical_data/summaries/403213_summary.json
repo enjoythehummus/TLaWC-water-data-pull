@@ -1,0 +1,52 @@
+{
+  "station_id": "403213",
+  "last_updated": "2025-10-27T15:07:08.065575",
+  "total_measurements": 1000707,
+  "parameter_count": 2,
+  "parameters": [
+    {
+      "parameter": "Water Course Level",
+      "unit": "m",
+      "measurement_count": 250652,
+      "statistics": {
+        "count": 250631,
+        "mean": 0.9686701485450722,
+        "std": 0.2709468364466249,
+        "min": -0.001,
+        "max": 5.774,
+        "median": 0.944,
+        "percentile_25": 0.817,
+        "percentile_75": 1.09,
+        "percentile_95": 1.427,
+        "percentile_99": 1.7827000000000115
+      },
+      "data_range": {
+        "start": "2018-08-28T11:15:00.000+10:00",
+        "end": "2025-10-26T10:00:01.000+10:00"
+      },
+      "status": "updated - added 0 new measurements"
+    },
+    {
+      "parameter": "Water Course Discharge",
+      "unit": "cumec",
+      "measurement_count": 750055,
+      "statistics": {
+        "count": 750049,
+        "mean": 1.9022160938818664,
+        "std": 5.1379979509161675,
+        "min": 0.0,
+        "max": 478.168,
+        "median": 0.577,
+        "percentile_25": 0.152,
+        "percentile_75": 1.874,
+        "percentile_95": 7.455,
+        "percentile_99": 19.218640000000132
+      },
+      "data_range": {
+        "start": "1958-12-15T17:15:00.000+10:00",
+        "end": "2025-10-26T10:00:01.000+10:00"
+      },
+      "status": "updated - added 0 new measurements"
+    }
+  ]
+}

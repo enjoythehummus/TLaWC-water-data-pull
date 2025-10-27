@@ -1,0 +1,102 @@
+{
+  "fetch_timestamp": "2025-10-27T15:06:46.768186",
+  "stations_updated": [
+    "403210",
+    "403213",
+    "403217",
+    "403218",
+    "405201",
+    "405202",
+    "405203"
+  ],
+  "stations_skipped": [
+    "404218"
+  ],
+  "total_new_measurements": 0,
+  "parameters_by_station": {
+    "403210": [
+      {
+        "parameter": "Water Temperature",
+        "new_measurements": 0,
+        "status": "updated - added 0 new measurements"
+      },
+      {
+        "parameter": "Water Course Level",
+        "new_measurements": 0,
+        "status": "updated - added 0 new measurements"
+      }
+    ],
+    "403213": [
+      {
+        "parameter": "Water Course Level",
+        "new_measurements": 0,
+        "status": "updated - added 0 new measurements"
+      },
+      {
+        "parameter": "Water Course Discharge",
+        "new_measurements": 0,
+        "status": "updated - added 0 new measurements"
+      }
+    ],
+    "403217": [
+      {
+        "parameter": "Water Course Discharge",
+        "new_measurements": 0,
+        "status": "updated - added 0 new measurements"
+      }
+    ],
+    "403218": [
+      {
+        "parameter": "Water Course Level",
+        "new_measurements": 0,
+        "status": "updated - added 0 new measurements"
+      }
+    ],
+    "405201": [
+      {
+        "parameter": "Turbidity",
+        "new_measurements": 0,
+        "status": "updated - added 0 new measurements"
+      },
+      {
+        "parameter": "Water Course Level",
+        "new_measurements": 0,
+        "status": "updated - added 0 new measurements"
+      },
+      {
+        "parameter": "Water Temperature",
+        "new_measurements": 0,
+        "status": "updated - added 0 new measurements"
+      },
+      {
+        "parameter": "Water Course Discharge",
+        "new_measurements": 0,
+        "status": "updated - added 0 new measurements"
+      }
+    ],
+    "405202": [
+      {
+        "parameter": "Water Course Discharge",
+        "new_measurements": 0,
+        "status": "updated - added 0 new measurements"
+      }
+    ],
+    "405203": [
+      {
+        "parameter": "Water Course Level",
+        "new_measurements": 0,
+        "status": "updated - added 0 new measurements"
+      }
+    ]
+  },
+  "errors": [
+    {
+      "station_id": "404218",
+      "station_name": "BROKEN RIVER @ LAKE NILLAHCOOTIE (HEAD GAUGE)",
+      "error": "No parameters available for this station"
+    }
+  ],
+  "total_stations_updated": 7,
+  "total_parameters_updated": 12,
+  "fetch_duration_seconds": 72.54
+}

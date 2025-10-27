@@ -1,0 +1,19 @@
+{
+  "fetch_timestamp": "2025-10-27T15:13:16.502768",
+  "stations_updated": [],
+  "stations_skipped": [
+    "404218"
+  ],
+  "total_new_measurements": 0,
+  "parameters_by_station": {},
+  "errors": [
+    {
+      "station_id": "404218",
+      "station_name": "BROKEN RIVER @ LAKE NILLAHCOOTIE (HEAD GAUGE)",
+      "error": "No parameters available for this station"
+    }
+  ],
+  "total_stations_updated": 0,
+  "total_parameters_updated": 0,
+  "fetch_duration_seconds": 44.7
+}

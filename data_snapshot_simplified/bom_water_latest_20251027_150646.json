@@ -1,0 +1,122 @@
+[
+  {
+    "timestamp": "2025-09-15T14:23:30.000+10:00",
+    "site_id": "403210",
+    "site_name": "OVENS RIVER @ MYRTLEFORD",
+    "data_type": "Water Temperature",
+    "value": "13.2",
+    "unit": "\u00b0C",
+    "quality_code": null,
+    "procedure": "Received.Validated.AsStored.1"
+  },
+  {
+    "timestamp": "2025-10-26T10:00:00.000+10:00",
+    "site_id": "403210",
+    "site_name": "OVENS RIVER @ MYRTLEFORD",
+    "data_type": "Water Course Level",
+    "value": "1.785",
+    "unit": "m",
+    "quality_code": null,
+    "procedure": "ObsPOR.Merged.AsStored.1"
+  },
+  {
+    "timestamp": "2025-10-26T10:00:00.000+10:00",
+    "site_id": "403213",
+    "site_name": "FIFTEEN MILE CREEK @ GRETA SOUTH",
+    "data_type": "Water Course Level",
+    "value": "0.872",
+    "unit": "m",
+    "quality_code": null,
+    "procedure": "Received.Provisional.AsStored.1"
+  },
+  {
+    "timestamp": "2025-10-26T10:00:00.000+10:00",
+    "site_id": "403213",
+    "site_name": "FIFTEEN MILE CREEK @ GRETA SOUTH",
+    "data_type": "Water Course Discharge",
+    "value": "0.245",
+    "unit": "cumec",
+    "quality_code": null,
+    "procedure": "Received.Provisional.AsStored.1"
+  },
+  {
+    "timestamp": "2025-10-26T10:30:00.000+10:00",
+    "site_id": "403217",
+    "site_name": "ROSE RIVER @ MATONG NORTH",
+    "data_type": "Water Course Discharge",
+    "value": "0.368",
+    "unit": "cumec",
+    "quality_code": null,
+    "procedure": "DMQaQc.Auto.AsStored.1"
+  },
+  {
+    "timestamp": "2025-10-26T10:00:00.000+10:00",
+    "site_id": "403218",
+    "site_name": "DANDONGADALE RIVER @ MATONG NORTH",
+    "data_type": "Water Course Level",
+    "value": "0.715",
+    "unit": "m",
+    "quality_code": null,
+    "procedure": "Received.Provisional.AsStored.1"
+  },
+  {
+    "timestamp": "2025-10-25T10:00:00.000+10:00",
+    "site_id": "405201",
+    "site_name": "GOULBURN RIVER @ TRAWOOL",
+    "data_type": "Turbidity",
+    "value": "51.5",
+    "unit": "NTU",
+    "quality_code": null,
+    "procedure": "Received.Provisional.AsStored.1"
+  },
+  {
+    "timestamp": "2025-10-08T07:37:00.000+10:00",
+    "site_id": "405201",
+    "site_name": "GOULBURN RIVER @ TRAWOOL",
+    "data_type": "Water Course Level",
+    "value": "1.653",
+    "unit": "m",
+    "quality_code": null,
+    "procedure": "Received.Validated.AsStored.1"
+  },
+  {
+    "timestamp": "2025-10-26T10:00:00.000+10:00",
+    "site_id": "405201",
+    "site_name": "GOULBURN RIVER @ TRAWOOL",
+    "data_type": "Water Temperature",
+    "value": "13.4",
+    "unit": "\u00b0C",
+    "quality_code": null,
+    "procedure": "CombinedProv.Merged.AsStored.1"
+  },
+  {
+    "timestamp": "2025-10-26T10:00:00.000+10:00",
+    "site_id": "405201",
+    "site_name": "GOULBURN RIVER @ TRAWOOL",
+    "data_type": "Water Course Discharge",
+    "value": "40.455",
+    "unit": "cumec",
+    "quality_code": null,
+    "procedure": "ObsPOR.Merged.AsStored.1"
+  },
+  {
+    "timestamp": "2025-10-26T10:00:00.000+10:00",
+    "site_id": "405202",
+    "site_name": "GOULBURN RIVER @ SEYMOUR",
+    "data_type": "Water Course Discharge",
+    "value": "40.938",
+    "unit": "cumec",
+    "quality_code": null,
+    "procedure": "Received.Provisional.AsStored.1"
+  },
+  {
+    "timestamp": "2025-10-26T10:00:00.000+10:00",
+    "site_id": "405203",
+    "site_name": "GOULBURN RIVER @ EILDON",
+    "data_type": "Water Course Level",
+    "value": "1.598",
+    "unit": "m",
+    "quality_code": null,
+    "procedure": "Harmonised.Provisional.AsStored.1"
+  }
+]

@@ -1,0 +1,47 @@
+2025-10-27 15:06:46,767 - INFO - ============================================================
+2025-10-27 15:06:46,767 - INFO - BOM Water Data Fetcher - Hourly Scheduler Started
+2025-10-27 15:06:46,767 - INFO - ============================================================
+2025-10-27 15:06:46,767 - INFO - This script will fetch new data every hour
+2025-10-27 15:06:46,767 - INFO - Press Ctrl+C to stop
+2025-10-27 15:06:46,767 - INFO - ============================================================
+2025-10-27 15:06:46,767 - INFO - Running initial fetch...
+2025-10-27 15:06:46,767 - INFO - Loading station IDs from /Users/alex/Documents/GitHub/TLaWC-water-data-pull/site_list_test.json...
+2025-10-27 15:06:46,768 - INFO - Found 9 active stations
+2025-10-27 15:06:46,768 - INFO - No previous fetch found - fetching last 90 days...
+2025-10-27 15:06:46,768 - INFO - [1/9] Processing station 403210 (OVENS RIVER @ MYRTLEFORD)
+2025-10-27 15:07:00,319 - INFO - [2/9] Processing station 403213 (FIFTEEN MILE CREEK @ GRETA SOUTH)
+2025-10-27 15:07:09,070 - INFO - [3/9] Processing station 403217 (ROSE RIVER @ MATONG NORTH)
+2025-10-27 15:07:16,453 - INFO - [4/9] Processing station 403218 (DANDONGADALE RIVER @ MATONG NORTH)
+2025-10-27 15:07:20,400 - INFO - [5/9] Processing station 405201 (GOULBURN RIVER @ TRAWOOL)
+2025-10-27 15:07:35,809 - INFO - [6/9] Processing station 405202 (GOULBURN RIVER @ SEYMOUR)
+2025-10-27 15:07:46,346 - INFO - [7/9] Processing station 405203 (GOULBURN RIVER @ EILDON)
+2025-10-27 15:07:52,672 - INFO - [8/9] Processing station 404243 (BROKEN RIVER @ D/S BACK CREEK JUNCTION)
+2025-10-27 15:07:57,272 - INFO - [9/9] Processing station 404218 (BROKEN RIVER @ LAKE NILLAHCOOTIE (HEAD GAUGE))
+2025-10-27 15:07:59,643 - INFO - Saved last fetch timestamp: 2025-10-27T15:06:46.768186
+2025-10-27 15:07:59,643 - INFO - Fetch completed successfully
+2025-10-27 15:07:59,654 - INFO - Scheduler configured - fetching data every 1 hour
+2025-10-27 15:13:14,446 - INFO - Scheduler stopped by user
+2025-10-27 15:13:14,448 - INFO - ============================================================
+2025-10-27 15:13:16,502 - INFO - ============================================================
+2025-10-27 15:13:16,502 - INFO - BOM Water Data Fetcher - Hourly Scheduler Started
+2025-10-27 15:13:16,502 - INFO - ============================================================
+2025-10-27 15:13:16,502 - INFO - This script will fetch new data every hour
+2025-10-27 15:13:16,502 - INFO - Press Ctrl+C to stop
+2025-10-27 15:13:16,502 - INFO - ============================================================
+2025-10-27 15:13:16,502 - INFO - Running initial fetch...
+2025-10-27 15:13:16,502 - INFO - Loading station IDs from /Users/alex/Documents/GitHub/TLaWC-water-data-pull/site_list_test.json...
+2025-10-27 15:13:16,502 - INFO - Found 9 active stations
+2025-10-27 15:13:16,502 - INFO - Last fetch was at: 2025-10-27T15:06:46.768186
+2025-10-27 15:13:16,502 - INFO - Fetching new data since last fetch...
+2025-10-27 15:13:16,502 - INFO - [1/9] Processing station 403210 (OVENS RIVER @ MYRTLEFORD)
+2025-10-27 15:13:23,082 - INFO - [2/9] Processing station 403213 (FIFTEEN MILE CREEK @ GRETA SOUTH)
+2025-10-27 15:13:28,353 - INFO - [3/9] Processing station 403217 (ROSE RIVER @ MATONG NORTH)
+2025-10-27 15:13:33,429 - INFO - [4/9] Processing station 403218 (DANDONGADALE RIVER @ MATONG NORTH)
+2025-10-27 15:13:37,189 - INFO - [5/9] Processing station 405201 (GOULBURN RIVER @ TRAWOOL)
+2025-10-27 15:13:45,110 - INFO - [6/9] Processing station 405202 (GOULBURN RIVER @ SEYMOUR)
+2025-10-27 15:13:50,231 - INFO - [7/9] Processing station 405203 (GOULBURN RIVER @ EILDON)
+2025-10-27 15:13:55,436 - INFO - [8/9] Processing station 404243 (BROKEN RIVER @ D/S BACK CREEK JUNCTION)
+2025-10-27 15:14:00,708 - INFO - [9/9] Processing station 404218 (BROKEN RIVER @ LAKE NILLAHCOOTIE (HEAD GAUGE))
+2025-10-27 15:14:01,202 - INFO - Saved last fetch timestamp: 2025-10-27T15:13:16.502768
+2025-10-27 15:14:01,202 - INFO - Fetch completed successfully
+2025-10-27 15:14:01,202 - INFO - Scheduler configured - fetching data every 1 hour

@@ -1,0 +1,421 @@
+{
+  "fetch_timestamp": "2025-10-27T15:05:10.913271",
+  "stations_processed": 11,
+  "total_parameters": 0,
+  "total_measurements": 0,
+  "new_measurements": 0,
+  "skipped_parameters": 14,
+  "stations": {
+    "403210": {
+      "station_id": "403210",
+      "parameters": {
+        "Water Temperature": {
+          "filename": "403210/Water_Temperature.json",
+          "unit": "\u00b0C",
+          "measurement_count": 218612,
+          "statistics": {
+            "count": 218611,
+            "mean": 14.59101646303251,
+            "std": 5.171015663372681,
+            "min": 0.0,
+            "max": 28.6,
+            "median": 13.5,
+            "percentile_25": 9.9,
+            "percentile_75": 19.1,
+            "percentile_95": 23.4,
+            "percentile_99": 25.2
+          },
+          "data_range": {
+            "available_start": "2019-06-06T13:40:59.000+10:00",
+            "available_end": "2025-09-15T14:23:31.000+10:00",
+            "pulled_start": "2019-06-06T13:40:59.000+10:00",
+            "pulled_end": "2025-09-15T14:23:31.000+10:00"
+          },
+          "status": "skipped - up to date"
+        },
+        "Water Course Level": {
+          "filename": "403210/Water_Course_Level.json",
+          "unit": "m",
+          "measurement_count": 728231,
+          "statistics": {
+            "count": 728174,
+            "mean": 1.7346742124821812,
+            "std": 0.5175265041292124,
+            "min": -0.055,
+            "max": 4.205,
+            "median": 1.775,
+            "percentile_25": 1.494,
+            "percentile_75": 2.033,
+            "percentile_95": 2.532,
+            "percentile_99": 2.948
+          },
+          "data_range": {
+            "available_start": "1947-10-01T15:59:59.000+10:00",
+            "available_end": "2025-10-26T10:00:01.000+10:00",
+            "pulled_start": "1947-10-01T15:59:59.000+10:00",
+            "pulled_end": "2025-10-26T10:00:01.000+10:00"
+          },
+          "status": "skipped - up to date"
+        }
+      },
+      "total_measurements": 0,
+      "new_measurements": 0
+    },
+    "403213": {
+      "station_id": "403213",
+      "parameters": {
+        "Water Course Level": {
+          "filename": "403213/Water_Course_Level.json",
+          "unit": "m",
+          "measurement_count": 250652,
+          "statistics": {
+            "count": 250631,
+            "mean": 0.9686701485450722,
+            "std": 0.2709468364466249,
+            "min": -0.001,
+            "max": 5.774,
+            "median": 0.944,
+            "percentile_25": 0.817,
+            "percentile_75": 1.09,
+            "percentile_95": 1.427,
+            "percentile_99": 1.7827000000000115
+          },
+          "data_range": {
+            "available_start": "2018-08-28T11:15:00.000+10:00",
+            "available_end": "2025-10-26T10:00:01.000+10:00",
+            "pulled_start": "2018-08-28T11:15:00.000+10:00",
+            "pulled_end": "2025-10-26T10:00:01.000+10:00"
+          },
+          "status": "skipped - up to date"
+        },
+        "Water Course Discharge": {
+          "filename": "403213/Water_Course_Discharge.json",
+          "unit": "cumec",
+          "measurement_count": 750055,
+          "statistics": {
+            "count": 750049,
+            "mean": 1.9022160938818664,
+            "std": 5.1379979509161675,
+            "min": 0.0,
+            "max": 478.168,
+            "median": 0.577,
+            "percentile_25": 0.152,
+            "percentile_75": 1.874,
+            "percentile_95": 7.455,
+            "percentile_99": 19.218640000000132
+          },
+          "data_range": {
+            "available_start": "1958-12-15T17:15:00.000+10:00",
+            "available_end": "2025-10-26T10:00:01.000+10:00",
+            "pulled_start": "1958-12-15T17:15:00.000+10:00",
+            "pulled_end": "2025-10-26T10:00:01.000+10:00"
+          },
+          "status": "skipped - up to date"
+        }
+      },
+      "total_measurements": 0,
+      "new_measurements": 0
+    },
+    "403216": {
+      "station_id": "403216",
+      "parameters": {
+        "Water Course Discharge": {
+          "filename": "403216/Water_Course_Discharge.json",
+          "unit": "cumec",
+          "measurement_count": 155886,
+          "statistics": {
+            "count": 155884,
+            "mean": 1.4009795296502527,
+            "std": 2.672728491918831,
+            "min": 0.0,
+            "max": 58.699,
+            "median": 0.418,
+            "percentile_25": 0.111,
+            "percentile_75": 1.464,
+            "percentile_95": 6.095,
+            "percentile_99": 12.768
+          },
+          "data_range": {
+            "available_start": "1971-12-14T12:45:00.000+10:00",
+            "available_end": "2017-03-22T10:08:01.000+10:00",
+            "pulled_start": "1971-12-14T12:45:00.000+10:00",
+            "pulled_end": "2017-03-22T10:08:01.000+10:00"
+          },
+          "status": "skipped - up to date"
+        }
+      },
+      "total_measurements": 0,
+      "new_measurements": 0
+    },
+    "403217": {
+      "station_id": "403217",
+      "parameters": {
+        "Rainfall": {
+          "filename": "403217/Rainfall.json",
+          "unit": "mm",
+          "measurement_count": 54394,
+          "statistics": {
+            "count": 54393,
+            "mean": 0.22326769988785322,
+            "std": 0.09603700274572553,
+            "min": 0.0,
+            "max": 3.8,
+            "median": 0.2,
+            "percentile_25": 0.2,
+            "percentile_75": 0.2,
+            "percentile_95": 0.4,
+            "percentile_99": 0.6
+          },
+          "data_range": {
+            "available_start": "2009-03-31T23:59:59.000+10:00",
+            "available_end": "2019-01-17T11:32:11.000+10:00",
+            "pulled_start": "2009-03-31T23:59:59.000+10:00",
+            "pulled_end": "2019-01-17T11:32:11.000+10:00"
+          },
+          "status": "skipped - up to date"
+        },
+        "Water Course Discharge": {
+          "filename": "403217/Water_Course_Discharge.json",
+          "unit": "cumec",
+          "measurement_count": 650540,
+          "statistics": {
+            "count": 650538,
+            "mean": 1.903133998321389,
+            "std": 4.370645568218249,
+            "min": 0.0,
+            "max": 190.618,
+            "median": 0.53,
+            "percentile_25": 0.117,
+            "percentile_75": 1.856,
+            "percentile_95": 8.569,
+            "percentile_99": 18.163820000000065
+          },
+          "data_range": {
+            "available_start": "1968-05-01T00:00:00.000+10:00",
+            "available_end": "2025-10-26T10:30:01.000+10:00",
+            "pulled_start": "1968-05-01T00:00:00.000+10:00",
+            "pulled_end": "2025-10-26T10:30:01.000+10:00"
+          },
+          "status": "skipped - up to date"
+        }
+      },
+      "total_measurements": 0,
+      "new_measurements": 0
+    },
+    "403218": {
+      "station_id": "403218",
+      "parameters": {
+        "Water Course Level": {
+          "filename": "403218/Water_Course_Level.json",
+          "unit": "m",
+          "measurement_count": 4070,
+          "statistics": {
+            "count": 4068,
+            "mean": 0.8579233038348083,
+            "std": 0.1104158716738748,
+            "min": 0.0,
+            "max": 1.251,
+            "median": 0.835,
+            "percentile_25": 0.769,
+            "percentile_75": 0.926,
+            "percentile_95": 1.0606499999999996,
+            "percentile_99": 1.1723299999999999
+          },
+          "data_range": {
+            "available_start": "2025-07-29T09:29:00.000+10:00",
+            "available_end": "2025-10-26T10:00:01.000+10:00",
+            "pulled_start": "2025-07-29T09:29:00.000+10:00",
+            "pulled_end": "2025-10-26T10:00:01.000+10:00"
+          },
+          "status": "skipped - up to date"
+        }
+      },
+      "total_measurements": 0,
+      "new_measurements": 0
+    },
+    "405201": {
+      "station_id": "405201",
+      "parameters": {
+        "Turbidity": {
+          "filename": "405201/Turbidity.json",
+          "unit": "NTU",
+          "measurement_count": 248154,
+          "statistics": {
+            "count": 248140,
+            "mean": 42.11218828080922,
+            "std": 121.70567881365237,
+            "min": -251.5,
+            "max": 1089.0,
+            "median": 16.3,
+            "percentile_25": 6.1,
+            "percentile_75": 31.9,
+            "percentile_95": 211.6,
+            "percentile_99": 641.1829999999958
+          },
+          "data_range": {
+            "available_start": "2018-08-28T14:15:00.000+10:00",
+            "available_end": "2025-10-25T10:00:01.000+10:00",
+            "pulled_start": "2018-08-28T14:15:00.000+10:00",
+            "pulled_end": "2025-10-25T10:00:01.000+10:00"
+          },
+          "status": "skipped - up to date"
+        },
+        "Water Course Level": {
+          "filename": "405201/Water_Course_Level.json",
+          "unit": "m",
+          "measurement_count": 702677,
+          "statistics": {
+            "count": 702533,
+            "mean": 1.5929302708911894,
+            "std": 0.6736636402132024,
+            "min": 0.0,
+            "max": 7.681,
+            "median": 1.457,
+            "percentile_25": 1.178,
+            "percentile_75": 1.903,
+            "percentile_95": 2.718,
+            "percentile_99": 3.997
+          },
+          "data_range": {
+            "available_start": "1908-01-01T17:29:59.000+10:00",
+            "available_end": "2025-10-08T07:37:01.000+10:00",
+            "pulled_start": "1908-01-01T17:29:59.000+10:00",
+            "pulled_end": "2025-10-08T07:37:01.000+10:00"
+          },
+          "status": "skipped - up to date"
+        },
+        "Water Temperature": {
+          "filename": "405201/Water_Temperature.json",
+          "unit": "\u00b0C",
+          "measurement_count": 247867,
+          "statistics": {
+            "count": 247851,
+            "mean": 14.118805653396597,
+            "std": 3.911538259850335,
+            "min": -12.5,
+            "max": 24.6,
+            "median": 13.8,
+            "percentile_25": 10.6,
+            "percentile_75": 17.4,
+            "percentile_95": 20.5,
+            "percentile_99": 21.9
+          },
+          "data_range": {
+            "available_start": "2018-08-28T14:15:00.000+10:00",
+            "available_end": "2025-10-26T10:00:01.000+10:00",
+            "pulled_start": "2018-08-28T14:15:00.000+10:00",
+            "pulled_end": "2025-10-26T10:00:01.000+10:00"
+          },
+          "status": "skipped - up to date"
+        },
+        "Water Course Discharge": {
+          "filename": "405201/Water_Course_Discharge.json",
+          "unit": "cumec",
+          "measurement_count": 704736,
+          "statistics": {
+            "count": 704733,
+            "mean": 62.00415437335843,
+            "std": 51.93328332393366,
+            "min": 0.0,
+            "max": 1022.201,
+            "median": 49.751,
+            "percentile_25": 33.529,
+            "percentile_75": 77.636,
+            "percentile_95": 137.534,
+            "percentile_99": 250.921
+          },
+          "data_range": {
+            "available_start": "1908-01-01T17:29:59.000+10:00",
+            "available_end": "2025-10-26T10:00:01.000+10:00",
+            "pulled_start": "1908-01-01T17:29:59.000+10:00",
+            "pulled_end": "2025-10-26T10:00:01.000+10:00"
+          },
+          "status": "skipped - up to date"
+        }
+      },
+      "total_measurements": 0,
+      "new_measurements": 0
+    },
+    "405202": {
+      "station_id": "405202",
+      "parameters": {
+        "Water Course Discharge": {
+          "filename": "405202/Water_Course_Discharge.json",
+          "unit": "cumec",
+          "measurement_count": 722675,
+          "statistics": {
+            "count": 722655,
+            "mean": 61.830998297943005,
+            "std": 59.50758674224393,
+            "min": 0.0,
+            "max": 1793.981,
+            "median": 47.479,
+            "percentile_25": 32.827,
+            "percentile_75": 74.767,
+            "percentile_95": 141.893,
+            "percentile_99": 299.99369999999834
+          },
+          "data_range": {
+            "available_start": "1975-06-11T09:00:00.000+10:00",
+            "available_end": "2025-10-26T10:00:01.000+10:00",
+            "pulled_start": "1975-06-11T09:00:00.000+10:00",
+            "pulled_end": "2025-10-26T10:00:01.000+10:00"
+          },
+          "status": "skipped - up to date"
+        }
+      },
+      "total_measurements": 0,
+      "new_measurements": 0
+    },
+    "405203": {
+      "station_id": "405203",
+      "parameters": {
+        "Water Course Level": {
+          "filename": "405203/Water_Course_Level.json",
+          "unit": "m",
+          "measurement_count": 249755,
+          "statistics": {
+            "count": 249731,
+            "mean": 82.4932101861603,
+            "std": 8621.487454110733,
+            "min": -2.5,
+            "max": 918601.313,
+            "median": 1.503,
+            "percentile_25": 1.152,
+            "percentile_75": 1.868,
+            "percentile_95": 2.563,
+            "percentile_99": 3.432
+          },
+          "data_range": {
+            "available_start": "2018-08-28T14:15:00.000+10:00",
+            "available_end": "2025-10-26T10:00:01.000+10:00",
+            "pulled_start": "2018-08-28T14:15:00.000+10:00",
+            "pulled_end": "2025-10-26T10:00:01.000+10:00"
+          },
+          "status": "skipped - up to date"
+        }
+      },
+      "total_measurements": 0,
+      "new_measurements": 0
+    },
+    "405243": {
+      "station_id": "405243",
+      "parameters": {},
+      "total_measurements": 0,
+      "new_measurements": 0
+    },
+    "404243": {
+      "station_id": "404243",
+      "parameters": {},
+      "total_measurements": 0,
+      "new_measurements": 0
+    },
+    "404218": {
+      "station_id": "404218",
+      "parameters": {},
+      "total_measurements": 0,
+      "new_measurements": 0
+    }
+  },
+  "total_fetch_time_seconds": 11.63
+}

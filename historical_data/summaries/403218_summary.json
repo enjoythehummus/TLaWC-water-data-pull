@@ -1,0 +1,30 @@
+{
+  "station_id": "403218",
+  "last_updated": "2025-10-27T15:07:19.399422",
+  "total_measurements": 4070,
+  "parameter_count": 1,
+  "parameters": [
+    {
+      "parameter": "Water Course Level",
+      "unit": "m",
+      "measurement_count": 4070,
+      "statistics": {
+        "count": 4068,
+        "mean": 0.8579233038348083,
+        "std": 0.1104158716738748,
+        "min": 0.0,
+        "max": 1.251,
+        "median": 0.835,
+        "percentile_25": 0.769,
+        "percentile_75": 0.926,
+        "percentile_95": 1.0606499999999996,
+        "percentile_99": 1.1723299999999999
+      },
+      "data_range": {
+        "start": "2025-07-29T09:29:00.000+10:00",
+        "end": "2025-10-26T10:00:01.000+10:00"
+      },
+      "status": "updated - added 0 new measurements"
+    }
+  ]
+}

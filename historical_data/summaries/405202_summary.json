@@ -1,0 +1,30 @@
+{
+  "station_id": "405202",
+  "last_updated": "2025-10-27T15:07:45.341013",
+  "total_measurements": 722675,
+  "parameter_count": 1,
+  "parameters": [
+    {
+      "parameter": "Water Course Discharge",
+      "unit": "cumec",
+      "measurement_count": 722675,
+      "statistics": {
+        "count": 722655,
+        "mean": 61.830998297943005,
+        "std": 59.50758674224393,
+        "min": 0.0,
+        "max": 1793.981,
+        "median": 47.479,
+        "percentile_25": 32.827,
+        "percentile_75": 74.767,
+        "percentile_95": 141.893,
+        "percentile_99": 299.99369999999834
+      },
+      "data_range": {
+        "start": "1975-06-11T09:00:00.000+10:00",
+        "end": "2025-10-26T10:00:01.000+10:00"
+      },
+      "status": "updated - added 0 new measurements"
+    }
+  ]
+}
