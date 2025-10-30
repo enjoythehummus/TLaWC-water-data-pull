@@ -1,0 +1,38 @@
+2025-10-30 15:13:09,616 - INFO - ============================================================
+2025-10-30 15:13:09,616 - INFO - BOM Water Data Fetcher - Hourly Scheduler Started
+2025-10-30 15:13:09,616 - INFO - ============================================================
+2025-10-30 15:13:09,616 - INFO - This script will fetch new data every hour
+2025-10-30 15:13:09,616 - INFO - Press Ctrl+C to stop
+2025-10-30 15:13:09,620 - INFO - ============================================================
+2025-10-30 15:13:09,620 - INFO - Running initial fetch...
+2025-10-30 15:13:09,620 - INFO - Loading station IDs from /Users/alex/Documents/GitHub/TLaWC-water-data-pull/site_list_test.json...
+2025-10-30 15:13:09,621 - INFO - Found 9 active stations
+2025-10-30 15:13:09,621 - INFO - Last fetch was at: 2025-10-30T14:13:34.893652
+2025-10-30 15:13:09,621 - INFO - Fetching new data since last fetch...
+2025-10-30 15:13:09,621 - INFO - [1/9] Processing station 403210 (OVENS RIVER @ MYRTLEFORD)
+2025-10-30 15:13:17,641 - INFO - [2/9] Processing station 403213 (FIFTEEN MILE CREEK @ GRETA SOUTH)
+2025-10-30 15:13:22,738 - INFO - [3/9] Processing station 403217 (ROSE RIVER @ MATONG NORTH)
+2025-10-30 15:13:26,693 - INFO - [4/9] Processing station 403218 (DANDONGADALE RIVER @ MATONG NORTH)
+2025-10-30 15:13:29,680 - INFO - [5/9] Processing station 405201 (GOULBURN RIVER @ TRAWOOL)
+2025-10-30 15:13:35,173 - INFO - [6/9] Processing station 405202 (GOULBURN RIVER @ SEYMOUR)
+2025-10-30 15:13:39,023 - INFO - [7/9] Processing station 405203 (GOULBURN RIVER @ EILDON)
+2025-10-30 15:13:43,302 - INFO - [8/9] Processing station 404243 (BROKEN RIVER @ D/S BACK CREEK JUNCTION)
+2025-10-30 15:13:48,709 - INFO - [9/9] Processing station 404218 (BROKEN RIVER @ LAKE NILLAHCOOTIE (HEAD GAUGE))
+2025-10-30 15:13:48,919 - INFO - Saved last fetch timestamp: 2025-10-30T15:13:09.621551
+2025-10-30 15:13:48,920 - INFO - Fetch completed successfully
+2025-10-30 15:13:48,920 - INFO - Scheduler configured - fetching data every 1 hour
+2025-10-30 16:14:09,330 - INFO - Loading station IDs from /Users/alex/Documents/GitHub/TLaWC-water-data-pull/site_list_test.json...
+2025-10-30 16:14:09,336 - INFO - Found 9 active stations
+2025-10-30 16:14:09,337 - INFO - Last fetch was at: 2025-10-30T15:13:09.621551
+2025-10-30 16:14:09,337 - INFO - Fetching new data since last fetch...
+2025-10-30 16:14:09,337 - INFO - [1/9] Processing station 403210 (OVENS RIVER @ MYRTLEFORD)
+2025-10-30 16:14:13,364 - INFO - [2/9] Processing station 403213 (FIFTEEN MILE CREEK @ GRETA SOUTH)
+2025-10-30 16:14:17,402 - INFO - [3/9] Processing station 403217 (ROSE RIVER @ MATONG NORTH)
+2025-10-30 16:14:21,296 - INFO - [4/9] Processing station 403218 (DANDONGADALE RIVER @ MATONG NORTH)
+2025-10-30 16:14:24,394 - INFO - [5/9] Processing station 405201 (GOULBURN RIVER @ TRAWOOL)
+2025-10-30 16:14:30,291 - INFO - [6/9] Processing station 405202 (GOULBURN RIVER @ SEYMOUR)
+2025-10-30 16:14:34,317 - INFO - [7/9] Processing station 405203 (GOULBURN RIVER @ EILDON)
+2025-10-30 16:14:38,281 - INFO - [8/9] Processing station 404243 (BROKEN RIVER @ D/S BACK CREEK JUNCTION)
+2025-10-30 16:14:42,456 - INFO - [9/9] Processing station 404218 (BROKEN RIVER @ LAKE NILLAHCOOTIE (HEAD GAUGE))
+2025-10-30 16:14:42,651 - INFO - Saved last fetch timestamp: 2025-10-30T16:14:09.336997
+2025-10-30 16:14:42,651 - INFO - Fetch completed successfully
